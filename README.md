@@ -8,7 +8,7 @@
 
 点击下方图片，跳转至视频演示👇
 
-[![点击查看演示视频](README.assets/image-20250816180158329.png)](https://www.bilibili.com/video/BV1hiYvzHEzz/?spm_id_from=333.1387.homepage.video_card.click&vd_source=e7300d5accad8932a257efb8871bb9ee)
+[![点击查看演示视频](README.assets/image-20250816180158329.png)](https://www.bilibili.com/video/BV1hiYvzHEzz)
 
 ## 运行项目
 
