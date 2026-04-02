@@ -40,7 +40,19 @@
 
 ## 项目介绍
 
+<details open>
+<summary>🇨🇳 中文流程图（点击收起）</summary>
+
 ![image-20250816163236047](README.assets/image-20250816163236047.png)
+
+</details>
+
+<details>
+<summary>🇬🇧 English Flowchart (click to expand)</summary>
+
+![Flowchart English](README.assets/Gemini_Generated_Image_wgk7n5wgk7n5wgk7.png)
+
+</details>
 
 - [ ] **个性化服装推荐**：基于用户输入的个人信息和场合需求，提供定制化的服装搭配建议，并提供穿搭效果图。
 - [ ] **丰富的知识库**：检索的专业知识来源于各大搜索引擎排名靠前（例如高PR值）的相关网页内容和专业度高的各大高校的硕博论文和服装领域的优秀论文，并使用Qwen2.0-7B-Instruct模型对这些知识进行了过滤筛选和归纳总结，在保证知识数量的同时也尽可能地保证了知识质量。
