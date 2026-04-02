@@ -40,15 +40,10 @@
 
 ## 项目介绍
 
-<details open>
-<summary>🇨🇳 中文流程图（点击收起）</summary>
-
 ![image-20250816163236047](README.assets/image-20250816163236047.png)
 
-</details>
-
 <details>
-<summary>🇬🇧 English Flowchart (click to expand)</summary>
+<summary>🔄 切换英文版 / Switch to English</summary>
 
 ![Flowchart English](README.assets/Gemini_Generated_Image_wgk7n5wgk7n5wgk7.png)
 
